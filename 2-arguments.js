@@ -1,7 +1,7 @@
 const args = process.argv.slice(4);
 
 if (args.length === 0) {
-  console.log('argument found');
+  console.log('Argument found');
 } else if (args.length === 1) {
   console.log('Arguments found');
 } else {
