@@ -1,9 +1,8 @@
-const arg = process.argv[4];
+const arg = process.argv[2];
 
 if (arg === undefined) {
   console.log('No argument');
-} else if (args === defifined) {
-  console.log('HBTN');
-}else {
+} else {
   console.log(arg);
 }
+
